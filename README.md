@@ -1,6 +1,8 @@
-#OpenCore Configuration for ASUS X512FL
- Monterey 12.6.1
- ![Opening](Screenshots/Screenshot1.png)
+## OpenCore Configuration for ASUS X512FL
+
+Monterey 12.6.1
+ 
+![Opening](Screenshots/Screenshot1.png)
 
 ## Spec Sheet
 | Part        | Specs                            |
